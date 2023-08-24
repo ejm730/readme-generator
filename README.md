@@ -15,7 +15,7 @@ Fields for title, description, installation, usage, contributing, tests, license
 Auto-generated badges based on chosen licenses
 Links to the GitHub profile and email for questions
 
-## Vide Walkthrough Link
+## Video Walkthrough Link
 
 https://drive.google.com/file/d/11RnkU3xjY3TxCddZ1Sz3HUhgv0DudiJq/view
 
