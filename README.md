@@ -1,6 +1,6 @@
-## README Generator
+# README Generator
 
-
+![ReadMe Generator in use](assets/Untitled_%20Aug%2023,%202023%204_37%20PM.gif)
 
 
 
@@ -14,6 +14,10 @@ Interactive prompts using the command line
 Fields for title, description, installation, usage, contributing, tests, licenses, and contact questions
 Auto-generated badges based on chosen licenses
 Links to the GitHub profile and email for questions
+
+## Vide Walkthrough Link
+
+https://drive.google.com/file/d/11RnkU3xjY3TxCddZ1Sz3HUhgv0DudiJq/view
 
 ## Installation
 
